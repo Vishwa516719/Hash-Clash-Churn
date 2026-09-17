@@ -1,0 +1,6 @@
+{
+  "name": "Hash Clash Churn",
+  "description": "Enterprise customer churn prediction and retention dashboard with real-time risk scoring, Nordic aesthetic, Excel/CSV ingestion, and Supabase authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
